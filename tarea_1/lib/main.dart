@@ -98,7 +98,9 @@ class _PageOneState extends State<PageOne> {
               padding: EdgeInsets.fromLTRB(15, 15, 15, 15),
               child: Text(
                 "BIENVENIDOS",
-                style: TextStyle(fontSize: 38),
+                style: TextStyle(fontSize: 38,
+                fontFamily: "Lobster",
+                ),
               ),
             ),
           ),
